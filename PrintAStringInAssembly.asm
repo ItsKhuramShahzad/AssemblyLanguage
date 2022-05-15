@@ -1,7 +1,7 @@
 org 100h
 
 jmp start
-data: db 'Assembly Labguage - Course, FAST University Peshawar Campus'
+data: db 'Assembly Language - Course, FAST University Peshawar Campus'
 msg1end:
 
 ; // Print a string on screen 
