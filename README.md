@@ -1,5 +1,7 @@
 # AssemblyLanguage
-# Lab 12:  Introduction to Display Memory and practical example with Assembly code|Assembly Coding,  How to Take input (string and character) in NASM, how to Print(string character ) in NASM
+# Lab 12:  Introduction to Display Memory and practical example with Assembly code|Assembly Coding,  
+## Live Demo: This site was built using [GitHub Pages](https://pages.github.com/)
+## How to Take input (string and character) in NASM, how to Print(string character ) in NASM
 ## What is Display memory
 ## How to access Display Memory
 ## How write a string on Display Memory
