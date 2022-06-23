@@ -1,6 +1,6 @@
 # AssemblyLanguage :  [Assembly Playlist Youtube](https://youtube.com/playlist?list=PLmeQIS8S5cYPt37d-ZkdCKrbU5Yu7rpG1)
 # Lab 12:  Introduction to Display Memory and practical example with Assembly code|Assembly Coding,  
-## [Lab 12 Live recorded:](https://youtu.be/33zbHcMG2Ss)
+## [Lab 12 Live recording](https://youtu.be/33zbHcMG2Ss)
 ## How to Take input (string and character) in NASM, how to Print(string character ) in NASM
 ## What is Display memory
 ## How to access Display Memory
@@ -11,7 +11,7 @@
 ## How to Take input (string, character and number) in NASM
 
 # Lab 13: Interrupts
-## [Lab 13 Live recorded:](https://youtu.be/bYxFvCm9iak)
+## [Lab 13 Live recording](https://youtu.be/bYxFvCm9iak)
 ## How to clear screen using scrool up and scrool down 
 ## How to write character and string on screen 
 ## How to make drawing on screen 
@@ -28,7 +28,7 @@
 ## Lab 13: WriteAStringInRectangleInAssembly.asm
 
 # Lab 14: Link Assembly code with C Language| Write 64/32 bit Assembly code and run it
-## [Lab 14 Live recorded:](https://youtu.be/Q9nmOeLvP_c)
+## [Lab 14 Live recording](https://youtu.be/Q9nmOeLvP_c)
 ## -Guide: How to install NASM and GCC compiler.
 ## -How to compile and link Assembly object file with C code.
 ## -Call Assembly code from C Language.
