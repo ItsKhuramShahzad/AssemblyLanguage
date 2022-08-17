@@ -22,6 +22,12 @@ div bx
 ;         ; DX =   4 = 1234 % 10  remainder
 ;         ; AX = 123 = 1234 / 10  quotient
 
+; // Print the a character on screen 
+   add  dl, 30h  ; to ascii conversion
+;    print the number 
+   mov ah, 2h   ; call interrupt to display a value in DL
+   int 21h
+ret 
 ret
 start
 
